@@ -1,0 +1,3002 @@
+[
+  {
+    "file": "emails/spam\\email_1.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_10.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_100.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_101.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_102.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_103.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_104.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_105.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_106.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_107.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_108.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_109.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_11.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_110.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_111.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_112.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_113.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_114.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_115.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_116.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_117.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_118.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_119.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_12.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_120.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_121.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_122.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_123.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_124.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_125.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_126.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_127.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_128.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_129.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_13.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_130.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_131.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_132.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_133.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_134.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_135.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_136.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_137.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_138.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_139.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_14.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_140.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_141.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_142.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_143.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_144.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_145.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_146.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_147.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_148.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_149.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_15.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_150.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_151.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_152.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_153.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_154.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_155.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_156.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_157.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_158.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_159.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_16.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_160.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_161.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_162.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_163.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_164.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_165.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_166.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_167.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_168.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_169.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_17.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_170.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_171.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_172.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_173.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_174.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_175.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_176.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_177.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_178.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_179.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_18.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_180.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_181.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_182.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_183.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_184.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_185.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_186.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_187.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_188.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_189.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_19.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_190.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_191.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_192.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_193.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_194.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_195.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_196.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_197.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_198.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_199.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_2.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_20.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_200.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_201.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_202.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_203.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_204.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_205.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_206.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_207.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_208.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_209.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_21.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_210.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_211.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_212.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_213.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_214.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_215.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_216.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_217.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_218.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_219.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_22.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_220.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_221.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_222.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_223.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_224.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_225.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_226.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_227.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_228.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_229.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_23.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_230.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_231.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_232.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_233.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_234.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_235.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_236.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_237.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_238.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_239.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_24.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_240.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_241.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_242.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_243.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_244.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_245.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_246.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_247.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_248.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_249.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_25.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_250.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_26.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_27.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_28.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_29.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_3.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_30.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_31.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_32.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_33.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_34.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_35.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_36.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_37.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_38.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_39.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_4.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_40.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_41.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_42.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_43.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_44.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_45.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_46.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_47.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_48.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_49.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_5.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_50.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_51.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_52.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_53.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_54.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_55.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_56.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_57.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_58.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_59.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_6.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_60.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_61.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_62.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_63.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_64.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_65.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_66.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_67.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_68.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_69.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_7.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_70.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_71.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_72.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_73.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_74.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_75.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_76.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_77.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_78.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_79.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_8.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_80.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_81.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_82.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_83.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_84.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_85.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_86.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_87.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_88.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_89.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_9.eml",
+    "urls": [
+      "http://fake.deals/claim"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_90.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_91.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_92.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_93.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_94.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_95.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_96.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_97.eml",
+    "urls": [
+      "http://scam.xyz"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_98.eml",
+    "urls": [
+      "http://phish.me/verify."
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/spam\\email_99.eml",
+    "urls": [
+      "http://offer.deals/promo"
+    ],
+    "url_count": 1
+  },
+  {
+    "file": "emails/good\\email_1.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_10.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_100.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_101.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_102.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_103.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_104.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_105.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_106.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_107.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_108.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_109.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_11.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_110.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_111.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_112.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_113.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_114.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_115.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_116.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_117.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_118.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_119.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_12.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_120.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_121.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_122.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_123.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_124.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_125.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_126.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_127.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_128.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_129.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_13.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_130.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_131.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_132.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_133.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_134.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_135.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_136.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_137.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_138.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_139.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_14.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_140.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_141.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_142.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_143.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_144.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_145.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_146.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_147.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_148.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_149.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_15.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_150.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_151.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_152.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_153.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_154.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_155.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_156.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_157.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_158.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_159.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_16.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_160.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_161.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_162.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_163.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_164.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_165.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_166.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_167.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_168.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_169.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_17.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_170.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_171.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_172.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_173.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_174.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_175.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_176.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_177.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_178.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_179.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_18.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_180.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_181.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_182.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_183.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_184.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_185.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_186.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_187.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_188.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_189.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_19.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_190.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_191.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_192.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_193.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_194.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_195.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_196.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_197.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_198.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_199.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_2.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_20.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_200.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_201.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_202.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_203.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_204.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_205.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_206.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_207.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_208.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_209.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_21.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_210.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_211.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_212.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_213.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_214.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_215.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_216.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_217.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_218.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_219.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_22.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_220.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_221.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_222.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_223.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_224.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_225.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_226.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_227.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_228.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_229.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_23.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_230.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_231.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_232.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_233.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_234.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_235.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_236.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_237.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_238.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_239.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_24.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_240.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_241.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_242.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_243.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_244.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_245.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_246.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_247.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_248.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_249.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_25.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_250.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_26.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_27.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_28.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_29.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_3.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_30.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_31.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_32.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_33.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_34.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_35.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_36.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_37.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_38.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_39.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_4.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_40.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_41.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_42.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_43.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_44.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_45.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_46.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_47.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_48.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_49.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_5.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_50.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_51.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_52.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_53.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_54.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_55.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_56.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_57.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_58.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_59.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_6.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_60.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_61.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_62.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_63.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_64.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_65.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_66.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_67.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_68.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_69.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_7.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_70.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_71.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_72.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_73.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_74.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_75.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_76.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_77.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_78.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_79.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_8.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_80.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_81.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_82.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_83.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_84.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_85.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_86.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_87.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_88.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_89.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_9.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_90.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_91.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_92.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_93.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_94.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_95.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_96.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_97.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_98.eml",
+    "urls": [],
+    "url_count": 0
+  },
+  {
+    "file": "emails/good\\email_99.eml",
+    "urls": [],
+    "url_count": 0
+  }
+]
