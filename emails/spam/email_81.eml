@@ -1,10 +1,10 @@
-From: win@lottery.com
-To: femi@example.com
-Subject: You Won $1000!
-Date: Mon, 09 Jun 2025 20:01:54 +0100
-Content-Type: text/plain
+From: security@amaz0n.com
+To: femi.ade@example.com
+Subject: Your PayPal Account is Suspended!
+Date: Fri, 13 Jun 2025 17:32:27 +0100
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
 
-Urgent!
-Your account needs verification. Go to http://phish.me/verify.
-Thanks,
-Support
+<html><body><p>Urgent! Unusual activity detected on your Amazon account. Se=
+cure it now at <a href=3D"http://amaz0n-security.com/login">http://amaz0n-s=
+ecurity.com/login</a>.</p><p>Amazon Team</p></body></html>

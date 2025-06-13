@@ -1,11 +1,10 @@
-From: win@lottery.com
-To: femi@example.com
-Subject: You Won $1000!
-Date: Mon, 09 Jun 2025 20:01:57 +0100
-Content-Type: text/plain
+From: promo@lotteryng.com
+To: femi.ola@university.edu
+Subject: Urgent: Verify Your Account Now!
+Date: Fri, 13 Jun 2025 17:32:28 +0100
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
 
-Dear User,
-Click here: http://fake.deals/claim to win $1000!
-Hurry!
-Best,
-Team
+<html><body><p>Dear Customer,</p><p>Your PayPal account has been locked. Cl=
+ick <a href=3D"http://secure-login.xyz/verify">here</a> to verify your iden=
+tity.</p><p>Thank you,<br>PayPal Security</p></body></html>
