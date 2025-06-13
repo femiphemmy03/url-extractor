@@ -1,10 +1,11 @@
-From: family@gmail.com
-To: femi@example.com
-Subject: Meeting Tomorrow
-Date: Mon, 09 Jun 2025 20:01:57 +0100
+From: prof.ade@university.edu
+To: femi.ade@example.com
+Subject: Order Confirmation #ORD12345
+Date: Fri, 13 Jun 2025 17:32:28 +0100
 Content-Type: text/plain
+Content-Transfer-Encoding: quoted-printable
 
-Dear Femi,
-Your account has been updated. Contact us at support@bank.com.
-Thanks,
-Team
+Dear Students,
+The lecture schedule for CS101 has been updated.
+Check http://university.edu/schedule.
+Prof. Ade

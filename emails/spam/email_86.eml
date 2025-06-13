@@ -1,11 +1,10 @@
-From: alert@secure.xyz
-To: femi@example.com
-Subject: You Won $1000!
-Date: Mon, 09 Jun 2025 20:01:54 +0100
-Content-Type: text/plain
+From: support@g00gle.com
+To: femi.ade@example.com
+Subject: Your Bank Account Needs Immediate Action!
+Date: Fri, 13 Jun 2025 17:32:27 +0100
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
 
-Dear User,
-Click here: http://fake.deals/claim to win $1000!
-Hurry!
-Best,
-Team
+<html><body><p>Dear Customer,</p><p>Your PayPal account has been locked. Cl=
+ick <a href=3D"http://secure-login.xyz/verify">here</a> to verify your iden=
+tity.</p><p>Thank you,<br>PayPal Security</p></body></html>
