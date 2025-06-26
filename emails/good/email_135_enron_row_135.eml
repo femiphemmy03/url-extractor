@@ -1,0 +1,48 @@
+From: billing@fintech.ng
+To: femi@techhub.ng
+Subject: schedule crawler : hourahead failure
+Date: Thu, 26 Jun 2025 12:06:56 +0100
+Content-Type: text/plain
+Content-Transfer-Encoding: quoted-printable
+X-Source: enron_row_135
+
+start date : 1 / 17 / 02 ; hourahead hour : 12 ; hourahead schedule download failed . manual intervention required .
+log messages :
+parsing file - - > > o : \\ portland \\ westdesk \\ california scheduling \\ iso final schedules \\ 2002011712 . txt
+error : dbcaps 97 data : cannot perform this operation on a closed database
+! ! ! unknown database .
+alias : dbcaps 97 data
+! ! ! unknown database .
+alias : dbcaps 97 data
+! ! ! unknown database .
+alias : dbcaps 97 data
+error : dbcaps 97 data : cannot perform this operation on a closed database
+! ! ! unknown database .
+alias : dbcaps 97 data
+! ! ! unknown database .
+alias : dbcaps 97 data
+! ! ! unknown database .
+alias : dbcaps 97 data
+error : dbcaps 97 data : cannot perform this operation on a closed database
+! ! ! unknown database .
+alias : dbcaps 97 data
+! ! ! unknown database .
+alias : dbcaps 97 data
+error : dbcaps 97 data : cannot perform this operation on a closed database
+error : dbcaps 97 data : cannot perform this operation on a closed database
+error : dbcaps 97 data : cannot perform this operation on a closed database
+! ! ! unknown database .
+alias : dbcaps 97 data
+! ! ! unknown database .
+alias : dbcaps 97 data
+! ! ! unknown database .
+alias : dbcaps 97 data
+! ! ! unknown database .
+alias : dbcaps 97 data
+! ! ! unknown database .
+alias : dbcaps 97 data
+! ! ! unknown database .
+alias : dbcaps 97 data
+! ! ! unknown database .
+alias : dbcaps 97 data
+error : dbcaps 97 data : cannot perform this operation on a closed database

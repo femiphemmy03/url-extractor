@@ -3,6 +3,7 @@ import json
 import logging
 from multiprocessing import Pool
 from url_extractor import URLExtractor
+import glob
 
 # Configure logging
 logging.basicConfig(
@@ -10,6 +11,12 @@ logging.basicConfig(
     format='%(levelname)s: %(name)s: %(message)s'
 )
 logger = logging.getLogger('batch')
+
+def find_directory(directory):
+    """Find a directory case-insensitively."""
+    pattern = directory.lower()
+    matches = [d for d in glob.glob('emails/*') if d.lower() == pattern or d.lower() == directory.upper()]
+    return matches[0] if matches else directory
 
 def process_single_email(eml_path):
     """Process a single .eml file and return results."""
@@ -23,23 +30,30 @@ def process_single_email(eml_path):
 
 def batch_process_emails(spam_dir, good_dir):
     """Process all .eml files in directories using parallel processing."""
+    spam_dir = find_directory(spam_dir)
+    good_dir = find_directory(good_dir)
+    
     email_files = []
     for directory in [spam_dir, good_dir]:
-        for filename in os.listdir(directory):
-            if filename.endswith('.eml'):
-                email_files.append(os.path.join(directory, filename))
+        if os.path.exists(directory):
+            for filename in os.listdir(directory):
+                if filename.lower().endswith('.eml'):
+                    email_files.append(os.path.join(directory, filename))
+        else:
+            logger.warning(f"Directory not found: {directory}")
     
     logger.info(f"Processing {len(email_files)} emails")
     
-    # Parallel processing
+    if not email_files:
+        logger.error("No .eml files found in spam or good directories")
+        return []
+    
     with Pool() as pool:
         results = pool.map(process_single_email, email_files)
     
-    # Save results to JSON
     with open('url_extraction_results.json', 'w') as f:
         json.dump(results, f, indent=2)
     
-    # Generate summary
     total_emails = len(results)
     total_urls = sum(r['url_count'] for r in results)
     unique_urls = set()
