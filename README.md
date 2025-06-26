@@ -1,3 +1,6 @@
+## UELEXTRACTOR
+Python Developer Intern Project for Datakerra Technologies
+
 ## Dataset
 - Generated 500 production-ready `.eml` files (250 genuine, 250 spam/phishing).
 - **Genuine Emails**: Use `Enron.csv` from the [Kaggle Phishing Email Dataset](https://www.kaggle.com/datasets/subhajit3798/phishing-site-prediction) for subjects and bodies, with generated senders (e.g., `hr@techcorp.com`) and receivers (e.g., `femi.ade@example.com`). Plain-text, professional content.
